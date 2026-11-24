@@ -1,0 +1,6 @@
+{
+  "name": "HEAL Daily Operacional",
+  "description": "Painel operacional em tempo real para TV Full HD integrado ao ecossistema HEAL Ops (GLPI, Alinhamento Semanal, Daily Operacional e Agente Gerencial).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
